@@ -1,8 +1,8 @@
 ---
-title: "Wrapping up dictionaries"
+title: "関数に取り組む"
 slug: wrapping-up
 ---
 
-This was quite a challenge! You were given a lot of creative freedom towards the end. This is the first step towards starting to write your own apps and games where it will be up to you to decide how it is best to store your data!
+これは大変な課題でした！終盤ではかなりの創造的な自由が与えられました。これは自分のアプリやゲームを書き始める第一歩です。データの保管方法を決めるのはあなた次第！
 
-Along the way, you spent some time learning about the best practices in optionals and learned how to store key-value pairs in dictionaries.
+その過程で、オプショナルに関するベストプラクティスについて学ぶ時間を割き、ディクショナリーで主要な値のペアを保存する方法を学びました。

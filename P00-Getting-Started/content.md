@@ -1,13 +1,13 @@
 ---
-title: "Introducing Dictionaries & Optionals"
+title: "ループ＆配列の導入"
 slug: dictionaries-playground
 ---
 
-Let's get some more practice with _optionals_ and learn about a new data type -- _dictionaries_!. In this _Swift Playground_, you will learn how to store, read, and update key-value pairs in dictionaries. You'll also get a lot of optionals practice along the way!
+オプショナルの練習をもう少しして、新しいデータ型であるディクショナリについて学習しましょう！このSwiftの Playgroundでは、ディクショナリーで主要な値のペアを保存、読み取り、更新する方法について学びます。また、その過程でオプショナルの練習をたくさんしていきます！
 
 > [action]
 >
-1. Download the optionals & dictionaries playground from [here](https://github.com/MakeSchool-Tutorials/Intro-Optionals-Dictionaries-Playground/archive/swift4.zip).
-1. Double-click the downloaded zip file to "extract it".
-1. Inside the newly extracted folder you should see a file named `Optionals-Dictionaries.playground`, drag this into your "Make School Projects" folder.
-1. Open your "Make School Projects" folder and double-click `Optionals-Dictionaries.playground` to get started!
+1. オプショナル＆辞書のPlaygroundをダウンロードしてください [ここです](https://github.com/MakeSchool-Tutorials/Intro-Optionals-Dictionaries-Playground/archive/swift4.zip)。
+1. ダウンロードしたzipファイルをダブルクリックして「解凍」してください。
+1. 新たに解凍されたフォルダーの中に、`Optionals-Dictionaries.playground`という名のファイルがあるはずです。これを「Make School Projects」のフォルダーへとドラッグしてください。
+1. 「Make School Projects」フォルダーを開いて、`Optionals-Dictionaries.playground`をダブルクリックして始めましょう！
