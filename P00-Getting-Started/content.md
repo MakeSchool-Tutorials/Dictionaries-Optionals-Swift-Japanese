@@ -1,5 +1,5 @@
 ---
-title: "ループ＆配列の導入"
+title: "ディクショナリとオプショナル"
 slug: dictionaries-playground
 ---
 
@@ -7,7 +7,7 @@ slug: dictionaries-playground
 
 > [action]
 >
-1. オプショナル＆辞書のPlaygroundをダウンロードしてください [ここです](https://github.com/MakeSchool-Tutorials/Intro-Optionals-Dictionaries-Playground/archive/swift4-japanese.zip)。
+1. ディクショナリとオプショナルのPlaygroundをダウンロードしてください [ここです](https://github.com/MakeSchool-Tutorials/Intro-Optionals-Dictionaries-Playground/archive/swift4-japanese.zip)。
 1. ダウンロードしたzipファイルをダブルクリックして「解凍」してください。
 1. 新たに解凍されたフォルダーの中に、`Optionals-Dictionaries.playground`という名のファイルがあるはずです。これを「Make School Projects」のフォルダーへとドラッグしてください。
 1. 「Make School Projects」フォルダーを開いて、`Optionals-Dictionaries.playground`をダブルクリックして始めましょう！
